@@ -23,5 +23,5 @@ A dashboard has to be created to analyse the sales of Atliq technologies
 - **Insights Delivery and Reporting:** Delivered actionable insights and set up automated reporting for real-time updates.
 
 ## Dashboard
-![ss]("https://github.com/ShRa06/Atliq-Tech-sales-insights/blob/main/Screenshot%202025-02-11%20231742.png)
+(https://github.com/ShRa06/Atliq-Tech-sales-insights/blob/main/Screenshot%202025-02-11%20231742.png)
 
