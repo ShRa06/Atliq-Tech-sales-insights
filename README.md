@@ -4,7 +4,7 @@
 A dashboard has to be created to analyse the sales of Atliq technologies
 
 ## Dataset used
-- <a href="">Atliq Technologies Data</a>
+- <a href="https://github.com/ShRa06/Atliq-Tech-sales-insights/blob/main/db_dump.sql">Atliq Technologies Data</a>
 
 ## KPIs
 - Revenue
@@ -23,5 +23,5 @@ A dashboard has to be created to analyse the sales of Atliq technologies
 - **Insights Delivery and Reporting:** Delivered actionable insights and set up automated reporting for real-time updates.
 
 ## Dashboard
-(https://github.com/ShRa06/Atliq-Tech-sales-insights/blob/main/Screenshot%202025-02-11%20231742.png)
+![ss](https://github.com/ShRa06/Atliq-Tech-sales-insights/blob/main/Screenshot%202025-02-11%20231742.png)
 
